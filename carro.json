@@ -1,0 +1,69 @@
+[
+    {
+       " modelo": "Argo",
+        "marca": "Fiat",  
+        "ano ": 2018,
+        "cor" : "Vermelho"
+        
+    },
+    {
+        "modelo": "Strada",
+        "marca" : "Fiat", 
+        "ano " : 2011,
+        "cor" : "Preto"
+    },
+    {
+        "modelo": "Onix",
+        "marca" : "Chevrolet",
+        "ano" : 2009,
+        "cor" : "Preto"
+    },
+    {
+        "modelo": "Toro",
+        "marca" : "Fiat",
+        "ano" : 2017,
+        "cor" : "Prata"
+    },
+    {
+        "modelo": "Corolla",
+        "marca" : "Toyota",
+        "ano" : 2006,
+        "cor" : "Preto"
+    },
+    {
+        "modelo" : "Ka",
+        "marca" : "Ford",
+        "ano" : 2007,
+        "cor" : "Prata"
+    },
+    {
+        "modelo": "Versa",
+        "marca" : "Nissan",
+        "ano" : 2021,
+        "cor" : "Branco"
+    },
+    {
+        "modelo" : "CLA Coupé",
+        "marca" : "Mercedes-Benz",
+        "ano" : 2019,     
+        "cor" : "Branco"
+    },
+    {
+        "modelo" : "Giulia GTA",
+        "marca" : "Alfa Romeo",
+        "ano" : 1968,
+        "cor" : "Vermelho"
+    },
+    {
+        "modelo" : "Kombi",
+        "marca": "Volkswagen",
+        "ano" : 2006,
+        "cor" : "Azul"
+    },
+    {
+        "modelo": "X7",
+        "marca" : "BMW",
+        "ano" : 2015,
+        "cor" : "Preto"
+    }
+]
